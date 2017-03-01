@@ -7,7 +7,7 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("First Git Tutorial Project.");
+		System.out.println("First Git Project.");
 
 	}
 
