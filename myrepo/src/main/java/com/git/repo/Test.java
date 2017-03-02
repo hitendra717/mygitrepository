@@ -1,13 +1,13 @@
 package com.git.repo;
 
-public class Test extends Test2{
+public class Test {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println("First Git Testing sdfsdfsdf Project.");
+		System.out.println("First Git Testing Project.");
 
 	}
 
