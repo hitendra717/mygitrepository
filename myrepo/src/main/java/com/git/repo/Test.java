@@ -1,6 +1,6 @@
 package com.git.repo;
 
-public class Test {
+public class Test extends Test2{
 
 	/**
 	 * @param args
